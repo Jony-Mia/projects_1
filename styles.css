@@ -1,5 +1,8 @@
-.container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 90vh;
+body,.container,h1,h2 {
+    padding:10px;
+    margin: 10px;
+}
+summary{
+    display: block;
+    text-align: center;
+}
