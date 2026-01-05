@@ -14,7 +14,7 @@
 </ul>
 <pre>
 <textarea contenteditable="false" rows="40" disabled cols="150">
-    <link rel="stylesheet" href="fonts/fontawesome.css">
+    <!-- <link rel="stylesheet" href="fonts/fontawesome.css">
     <link rel="stylesheet" href="fonts/brands.css">
     <link rel="stylesheet" href="fonts/chisel-regular.css">
     <link rel="stylesheet" href="fonts/duotone-light.css">
@@ -44,6 +44,6 @@
     <link rel="stylesheet" href="fonts/utility-fill-semibold.css">
     <link rel="stylesheet" href="fonts/utility-duo-semibold.css">
     <link rel="stylesheet" href="fonts/utility-semibold.css">
-    <link rel="stylesheet" href="fonts/whiteboard-semibold.css">
+    <link rel="stylesheet" href="fonts/whiteboard-semibold.css"> -->
 </textarea>
 </pre>
